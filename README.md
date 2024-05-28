@@ -23,7 +23,12 @@ The key objectives of our project are:
 
 ## Getting Started
 
-To replicate the analyses or explore the data, clone this repository and navigate to the respective folders. Ensure you have the necessary dependencies installed to run the code.
+To replicate the analyses or explore the data, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Ensure you have Python 3 or above installed. If not, download and install it from [Python's official website](https://www.python.org/downloads/).
+3. Download all the data files from the Data folder for experiments (exp1 and exp2).
+4. Use Jupyter Notebooks to view the analysis. To install, use the command `pip install jupyterlab` or `pip install notebook`.
 
 
 ## Team Members
